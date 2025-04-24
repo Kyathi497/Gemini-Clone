@@ -43,7 +43,7 @@ const MainContent = () => {
 
         </div>
 
-        <div className='absolute bottom-0 w-full max-w-[900px] px-5 mx-auto mt-5'>
+        <div className='absolute bottom-0 w-full max-w-[900px] px-5 mx-auto mt-2'>
           <div className='flex items-center justify-between gap-20 bg-gray-200 py-2 px-5 rounded-full'>
             <input type="text" placeholder='Enter your prompt here..' className='flex-1 bg-transparent border-none outline-none p-2 text-lg ' />
 
